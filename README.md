@@ -23,19 +23,31 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
+
 </div>
 
 <br>
 
+<table>
+  <tr>
+    <td>
+
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na PUC Minas
-- 📍 Belo Horizonte, Minas Gerais
+- 📍 Caeté, Minas Gerais
 - 🤖 Experiência com **automação de processos (n8n)** e **banco de dados (Supabase)**
 - 🌱 Estudando **C#**, **SQL** e lógica de programação
-- 🔐 Interesse em **Segurança da Informação, Banco de dados, Automações**
+- 🔐 Interesse em **Segurança da Informação**
 - 💼 Em busca de **estágio na área de TI**
 
+</td>
+    <td>
+        <img width="736" height="764" alt="me pink" src="https://github.com/user-attachments/assets/8ae24744-2f42-4790-932d-31cd21a4a637">
+      <img src="assets/me_pink.gif" alt="Caíque" width="250">
+    </td>
+  </tr>
+</table>
 <br>
 
 ## 📂 Projetos
