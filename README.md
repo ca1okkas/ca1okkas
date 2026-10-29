@@ -21,7 +21,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na PUC Minas e desen
 - 🚀 Evoluindo em desenvolvimento web com **HTML, CSS e JavaScript**
 - 🧠 Estudando **C#**, **SQL** e lógica de programação
 - 🤖 Experiência com **automação de processos (n8n)** e **banco de dados (Supabase)**
-- 🎲 Criei o **TableLink**, uma mesa virtual de RPG que roda no navegador
 - 🔐 Interesse em **Segurança da Informação**
 - 💼 Em busca de **estágio na área de TI**
 
