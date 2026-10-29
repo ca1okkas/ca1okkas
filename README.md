@@ -4,10 +4,6 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas · em busca de estágio em TI**
 
-<img src="https://github.com/user-attachments/assets/8ae24744-2f42-4790-932d-31cd21a4a637" alt="Caíque" width="260">
-
-<br><br>
-
 <a href="mailto:contatoparacaique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E8336D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/ca1okkas"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -18,12 +14,18 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na PUC Minas
-- 📍 Belo Horizonte, Minas Gerais
+<img align="right" width="300" src="https://github.com/user-attachments/assets/8ae24744-2f42-4790-932d-31cd21a4a637" alt="Caíque">
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na PUC Minas e desenvolvedor em formação. Uso projetos acadêmicos e pessoais para transformar teoria em prática e fortalecer minha base em front-end, back-end e lógica de programação.
+
+- 🚀 Evoluindo em desenvolvimento web com **HTML, CSS e JavaScript**
+- 🧠 Estudando **C#**, **SQL** e lógica de programação
 - 🤖 Experiência com **automação de processos (n8n)** e **banco de dados (Supabase)**
-- 🌱 Estudando **C#**, **SQL** e lógica de programação
+- 🎲 Criei o **TableLink**, uma mesa virtual de RPG que roda no navegador
 - 🔐 Interesse em **Segurança da Informação**
 - 💼 Em busca de **estágio na área de TI**
+
+Desenvolvo projetos acadêmicos e pessoais com **HTML, CSS, JavaScript e C#**, usando **n8n** e **Supabase** em automações e bancos de dados. Agora estou aprofundando meus conhecimentos em **SQL** e bancos de dados relacionais.
 
 <br>
 
@@ -49,7 +51,7 @@
 
 ## 📂 Projetos
 
-- 🎲 [**TableLink**](https://github.com/ca1okkas/Table-Link): mesa virtual de RPG que roda no navegador, com fichas de personagem, bestiário e multiplayer em tempo real. Desenvolvida por mim do zero.  
+- 🎲 [**TableLink**](https://github.com/ca1okkas/Table-Link): mesa virtual de RPG para Ordem Paranormal que roda no navegador, com fichas de personagem, bestiário e multiplayer em tempo real. Desenvolvida por mim do zero.  
   `JavaScript` `Node.js` `SQLite` `WebSocket`
 - 💰 [**Planeja Lar**](https://github.com/ca1okkas/planeja-lar-controle-financeiro) · [demo](https://ca1okkas.github.io/planeja-lar-controle-financeiro/): app web de controle financeiro familiar, com dashboard, receitas e despesas, cartões, metas e análise 50/30/20. Projeto em equipe na PUC Minas.  
   `HTML` `CSS` `JavaScript` `localStorage`
