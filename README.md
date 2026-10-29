@@ -44,7 +44,7 @@
 </td>
     <td>
         <img width="736" height="764" alt="me pink" src="https://github.com/user-attachments/assets/8ae24744-2f42-4790-932d-31cd21a4a637">
-      <img src="assets/me_pink.gif" alt="Caíque" width="250">
+      <img src="assets/me_pink.gif" alt="Caíque" width="200">
     </td>
   </tr>
 </table>
