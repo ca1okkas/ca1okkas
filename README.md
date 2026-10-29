@@ -49,8 +49,10 @@
 
 ## 📂 Projetos
 
-- 🎲 [**TableLink**](https://github.com/ca1okkas/Table-Link): mesa virtual de RPG para Ordem Paranormal que roda no navegador, com fichas de personagem, bestiário e multiplayer em tempo real. Desenvolvida por mim do zero.  
+- 🎲 [**TableLink**](https://github.com/ca1okkas/Table-Link): mesa virtual de RPG que roda no navegador, com fichas de personagem, bestiário e multiplayer em tempo real. Desenvolvida por mim do zero.  
   `JavaScript` `Node.js` `SQLite` `WebSocket`
+- 💰 [**Planeja Lar**](https://github.com/ca1okkas/planeja-lar-controle-financeiro) · [demo](https://ca1okkas.github.io/planeja-lar-controle-financeiro/): app web de controle financeiro familiar, com dashboard, receitas e despesas, cartões, metas e análise 50/30/20. Projeto em equipe na PUC Minas.  
+  `HTML` `CSS` `JavaScript` `localStorage`
 - 🛡️ [**AntiGolpe**](https://github.com/ca1okkas/NOME_DO_REPOSITORIO): site de triagem de golpes, projeto interdisciplinar em grupo na PUC Minas.
 
 <br>
