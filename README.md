@@ -50,7 +50,9 @@ Desenvolvo projetos acadêmicos e pessoais com **HTML, CSS, JavaScript e C#**, u
 
 ## 📂 Projetos
 
-- 🎲 [**TableLink**](https://github.com/ca1okkas/Table-Link): mesa virtual de RPG para Ordem Paranormal que roda no navegador, com fichas de personagem, bestiário e multiplayer em tempo real. Desenvolvida por mim do zero.  
+- 📞 [**Atendente Virtual**](https://github.com/ca1okkas/secretaria-v3): Secretária virtual para atendimento via WhatsApp, com agendamento, cobranças e lembretes automáticos.
+  `n8n` `Chatwoot` `PostgreSQL` `OpenAI` `Google Calendar`
+- - 🎲 [**TableLink**](https://github.com/ca1okkas/Table-Link): mesa virtual de RPG para Ordem Paranormal que roda no navegador, com fichas de personagem, bestiário e multiplayer em tempo real. Desenvolvida por mim do zero.  
   `JavaScript` `Node.js` `SQLite` `WebSocket`
 - 💰 [**Planeja Lar**](https://github.com/ca1okkas/planeja-lar-controle-financeiro) · [demo](https://ca1okkas.github.io/planeja-lar-controle-financeiro/): app web de controle financeiro familiar, com dashboard, receitas e despesas, cartões, metas e análise 50/30/20. Projeto em equipe na PUC Minas.  
   `HTML` `CSS` `JavaScript` `localStorage`
